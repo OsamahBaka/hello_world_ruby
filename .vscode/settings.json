@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "mysecretpassword"
-    ]
+    ],
+    "[erb]": {
+        "editor.defaultFormatter": "elia.erb-formatter"
+    }
 }
