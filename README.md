@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi, this is my first Rails app for me
 
-Things you may want to cover:
+## Overview
 
-* Ruby version
+creating simple Blog that you can post a post and others can see it
 
-* System dependencies
+## Things I coverd in this project:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Used the Rails framework, including MVC architecture and ActiveRecord ORM.
+* Wrote code in Ruby and utilized HTML, CSS, and JavaScript.
+* Managed code with Git version control.
+* Followed RESTful API design principles.
+* Implemented authentication and authorization using the Devise gem.
+* Conducted testing to ensure functionality.
+* Learned key concepts in web development and explored specific features of Rails.
+* Set up deployment to a hosting service.
